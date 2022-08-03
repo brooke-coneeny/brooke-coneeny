@@ -8,4 +8,4 @@ My special interest lies in sports analytics, specifically baseball and softball
 - 📫 How to reach me: through email, bconeen1@swarthmore.edu or twitter, @ConeenyStats
 
 Here is my resume: 
-[Brooke_Coneeny_Resume.pdf](https://github.com/brooke-coneeny/brooke-coneeny/files/6947412/Brooke_Coneeny_Resume.pdf)
+[Brooke_Coneeny_Resume.pdf](https://github.com/brooke-coneeny/brooke-coneeny/files/9255293/Brooke_Coneeny_Resume.pdf)
