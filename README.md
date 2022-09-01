@@ -4,7 +4,7 @@ My name is Brooke Coneeny and I am apart of the class of 2023 at Swarthmore Coll
 I am majoring in mathematics (emphasis in statistics) and computer science.
 My special interest lies in sports analytics, specifically baseball and softball 
 
-- 🔭 I’m currently working as a Data Quality & Reporting intern for USA Baseball
+- 🔭 I’m currently working as a Data Quality & Reporting intern for USA Baseball along with doing analytics for Swarthmore Varsity Baseball Team
 - 📫 How to reach me: through email, bconeen1@swarthmore.edu or twitter, @ConeenyStats
 
 Here is my resume: 
